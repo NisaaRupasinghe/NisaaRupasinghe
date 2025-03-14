@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Web Development | OOP | Java**
 
-- 📫 How to reach me **nisa@gmail.com**
+- 📫 How to reach me **ayodyanisadi2001@gmail.com**
 
 </td>
 <td width="50%" align="center">
