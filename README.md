@@ -49,10 +49,10 @@
 <tr border="none">
 <td width="60%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ameeshasanali&theme=radical&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nisaarupasinghe&theme=radical&show_icons=true&count_private=true" />
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ameeshasanali&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nisaarupasinghe&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -61,6 +61,6 @@
 <h3 align="center"> 🔥 Streak Stats</h3>
 
 
-<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ameeshasanali&theme=radical" alt="ameeshasanali"  /></p>
+<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nisaarupasinghe&theme=radical" alt="ameeshasanali"  /></p>
 
 </details>
