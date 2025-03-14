@@ -61,6 +61,6 @@
 <h3 align="center"> 🔥 Streak Stats</h3>
 
 
-<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nisaarupasinghe&theme=radical" alt="ameeshasanali"  /></p>
+<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nisaarupasinghe&theme=radical" alt="nisaarupasinghe"  /></p>
 
 </details>
