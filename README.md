@@ -52,7 +52,7 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NisaaRupasinghe&theme=highcontrast&show_icons=true&count_private=true" />
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NisaaRupasinghe&theme=highcontrastl&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NisaaRupasinghe&theme=highcontrast&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
