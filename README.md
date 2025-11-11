@@ -1,4 +1,5 @@
-<h3 align="center">I'm Nisadi Rupasinghe, I'm a Undergraduate in SLIIT from Sri Lanka.</h3>
+<h3 align="center">I'm Nisandi Rupasinghe, I'm a Undergraduate in SLIIT from Sri Lanka.</h3>
+<h3  align="center"></h3>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=NisaaRupasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="nisaarupasinghe" /> &nbsp;&nbsp;
@@ -16,11 +17,11 @@
 <tr border="none">
 <td width="70%" align="left">
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web Development | OOP | Java**
+- 💬 Ask me about **Machine Learning| Data Analytics| SQL| Power BI |Web Development | OOP | Java**
 
 - 📫 How to reach me **ayodyanisadi2001@gmail.com**
 
